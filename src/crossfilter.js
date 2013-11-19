@@ -74,7 +74,7 @@ function crossfilter() {
       bottom: bottom,
       group: group,
       groupAll: groupAll,
-      accessor: accessor
+      accessor: accessor,
       dispose: dispose,
       remove: dispose // for backwards-compatibility
     };
